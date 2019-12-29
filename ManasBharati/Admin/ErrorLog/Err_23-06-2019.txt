@@ -1,0 +1,18 @@
+Time: 23-06-2019 02:37:38 PM
+---------------------------------------------------------------------------------------------------------------
+Message:Failure sending mail.
+StackTrace:   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at idealpublicschool.DBOperations.SendMail(String mailto, String subject, String body) in C:\Users\Saurabh\Desktop\Yourwebs\idealpublicschool\idealpublicschool\idealpublicschool\DBOperations.cs:line 2060
+Source:System
+TargetSite:Void Send(System.Net.Mail.MailMessage)
+-----------------------------------------------------------------------------------------------------------------
+
+Time: 23-06-2019 02:37:59 PM
+---------------------------------------------------------------------------------------------------------------
+Message:Failure sending mail.
+StackTrace:   at System.Net.Mail.SmtpClient.Send(MailMessage message)
+   at idealpublicschool.DBOperations.SendMail(String mailto, String subject, String body) in C:\Users\Saurabh\Desktop\Yourwebs\idealpublicschool\idealpublicschool\idealpublicschool\DBOperations.cs:line 2060
+Source:System
+TargetSite:Void Send(System.Net.Mail.MailMessage)
+-----------------------------------------------------------------------------------------------------------------
+
